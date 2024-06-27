@@ -73,3 +73,5 @@ class ProgramGUI:
             
 # Create an object of the ProgramGUI class to begin the program.
 gui = ProgramGUI()
+
+tkinter.mainloop()
